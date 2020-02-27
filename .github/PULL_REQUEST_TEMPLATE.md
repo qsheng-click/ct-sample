@@ -1,10 +1,9 @@
-<!-- Recommended title for pull request is  -->
 ## Related Jira Ticket
-<!-- Put link to related Jira ticket here. If you don't have one, please create one before you create this pull request -->
+<!-- Put link to related Jira ticket here. If you don't have one, please create one before you create this pull request. -->
 
 
 ## Proposed changes
-<!-- Describe the big picture of your changes here from developer point of view and why we should accept this pull request. -->
+<!-- Describe the big picture of your changes here from engineer point of view, why we should accept this pull request, suggestions that will help efficiently review and verfiy your pull request. -->
 
 
 ## Types of changes
@@ -21,7 +20,7 @@
 
 
 ## Checklist
-<!-- _Put an `x` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code._ -->
+<!-- _Put an `x` in the boxes that apply. You can also fill these out after creating the PR. This is simply a reminder of what we are going to look for before merging your code._ -->
 	
 - [ ] Lint and unit tests pass locally with my changes
 - [ ] I have added tests that prove my fix is effective or that my feature works
